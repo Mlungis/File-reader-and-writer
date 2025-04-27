@@ -1,12 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+The projects reads information from a txtFile and writes the sorted 
+information to another txt File
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE: Files
+PURPOSE OF PROJECT: Read and writeto txt File
 VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+HOW TO START THIS PROJECT: Load the files on blueJ
+AUTHORS: Mlungisi
 USER INSTRUCTIONS:
